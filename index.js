@@ -20,9 +20,10 @@ const cover = document.querySelector("#cover");
 // Name of the songs
 const songs = [
   "Burning Hour",
-  "Ceilings",
+  "Let Me Down Slowly",
   "I Really Want to Stay at Your House",
-  "Oh No",
+  "jeremy zucker & chelsea cutler - please",
+  "it's a part of human nature",
 ];
 
 // Keep track of songs
